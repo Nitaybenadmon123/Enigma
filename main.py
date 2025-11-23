@@ -97,6 +97,7 @@ def main():
     ).replace(" ", "")
     plaintext = enigma.encrypt(ciphertext)
     print("Plaintext message:", plaintext)
+    #כגעגעגעיי
 
 
 
